@@ -1,0 +1,6 @@
+Flask
+flask-cors
+Werkzeug
+Pillow
+razorpay
+gunicorn
