@@ -541,7 +541,7 @@ def home():
         )
 
     return redirect(
-        url_for("login")
+        url_for("register")
     )
 
 
